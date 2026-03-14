@@ -13,7 +13,7 @@ The goal of this project was to build a clean and responsive social profile card
 
 ## 🔗 Links
 
-* 🌐 **Live Site URL:** https://Haco31.github.io/TU-REPOSITORIO/
+* 🌐 **Live Site URL:** https://haco31.github.io/social-links-profile/
 
 ---
 
